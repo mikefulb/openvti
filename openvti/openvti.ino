@@ -1,6 +1,6 @@
 /*
 
-This is VERSION 3 - it uses the hardware serial port of the Arduino!!
+This is VERSION 4 - it uses the hardware serial port of the Arduino!!
 
 ChangeLog
 
